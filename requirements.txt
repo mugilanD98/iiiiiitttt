@@ -1,0 +1,8 @@
+pandas
+bs4
+requests
+mysql.connector
+pymysql
+sqlalchemy
+schedule
+lxml
